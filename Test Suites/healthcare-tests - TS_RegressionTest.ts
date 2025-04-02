@@ -15,7 +15,7 @@
       <guid>12b1ed24-3d2b-4bed-87e1-7c72470cdce7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/New Test Case Folder -/New Test Case Folder - 1743582681389/TC1_Verify Successful Login</testCaseId>
+      <testCaseId>Test Cases/Main Test Cases/New Test Case Folder -/New Test Case Folder - 1743582681389/TC1_Verify Successful Login Rename</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
